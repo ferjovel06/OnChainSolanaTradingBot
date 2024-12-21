@@ -172,5 +172,3 @@ cython_debug/
 
 # JetBrains
 .idea/
-
-.gitignore
